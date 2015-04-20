@@ -1,6 +1,12 @@
 # Developing_data_products
-Developing Data Products: Coursera course by Johns Hopkins University 
 
+This course, which is the ninth course of the data science specialization from Johns Hopkins University on Coursera, covers the 
+
+basics of creating data products using Shiny, R packages, and interactive graphics. The course focuses on the statistical 
+
+fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
+
+Verified Course Record is available at 
 
     Course Content
 
