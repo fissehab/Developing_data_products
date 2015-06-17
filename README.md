@@ -18,4 +18,4 @@ Verified Course Record is available at: https://www.coursera.org/account/accompl
 
 Project App summary
 
-The app I developed for this course project calculates monthly climatology (long term mean) and trend of temperature and rainfall over any selected rectangular region. The user can selecet either dataset and then the app shows a map and the user can click over any geographic region of interest. 
+The app I developed for this course project calculates monthly climatology (long term mean) and trend of temperature and rainfall over any selected rectangular region over Africa. The user can selecet either dataset and then the app shows a map and the user can click over any geographic region of interest to get the trend and climatology. This helps to quickly see how climate change is affecting a given region. Here is a slidify presentation on the App: http://datascience-enthusiast.com/R/shiny/index.html#1
